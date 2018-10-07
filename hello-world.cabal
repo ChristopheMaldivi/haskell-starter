@@ -2,10 +2,11 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: ea070d6e0030d2b7bf968e13f9e2aca4aeaf86e84d1148217e41c172bc8f5b37
+-- hash: 907051fd5ba5f4819c9758ba55ee6796736142551de018694da343503af4976f
 
 name:           hello-world
 version:        1.1.0.4
+license-file:   LICENSE
 build-type:     Simple
 cabal-version:  >= 1.10
 
